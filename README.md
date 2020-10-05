@@ -9,7 +9,7 @@ Author: Youness BOUTYOUR <br />
 
 ## Review Criteria
 
-Goal | Item | Link to Item
+Goal | Item | 
 --- | --- | ---
 Analysis R Script |  run_analysis.R |  
 Tidy Data Set |  Clean Data Set |  
@@ -22,4 +22,4 @@ README | ReadingItNow |
 FirstName | LastName | Email
 --- | --- | ---
 Youness |  BOUTYOUR |  <nicedev2020@gmail.com>
-Submit |  Pull Request | <youremailhere@gmail.com>
+
